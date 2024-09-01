@@ -1,5 +1,7 @@
 # Sistem za spremljanje nivoja vode 
 
+![Sistem v praksi](img1.png)
+
 ## Ideja: 
 Želel sem sistem, ki me opozori ko je gladina vode v kadi na želeni višini in grem lahko brez vmesnega pogledovanja mirno iz moje sobe v kopalnico. 
 
