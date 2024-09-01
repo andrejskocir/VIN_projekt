@@ -1,7 +1,11 @@
 # Sistem za spremljanje nivoja vode 
 
+<p float="left">
 <img src="Photo-5015.jpg" alt="Sistem v praksi" width="200"/>
 <img src="img1.png" alt="Aplikacija" width="200"/>
+</p>
+
+
 
 ## Ideja: 
 Želel sem sistem, ki me opozori ko je gladina vode v kadi na želeni višini in grem lahko brez vmesnega pogledovanja mirno iz moje sobe v kopalnico. 
