@@ -1,6 +1,6 @@
 # Sistem za spremljanje nivoja vode 
 
-<img src="img2.png" alt="Sistem v praksi" width="200"/>
+<img src="img2.jpg" alt="Sistem v praksi" width="200"/>
 <img src="img1.png" alt="Aplikacija" width="200"/>
 
 ## Ideja: 
