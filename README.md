@@ -26,4 +26,6 @@ Uporablja se za prikaz napolnjenosti kadi s "progress barom"
  - STM32F3DISCOVERY razvojna plošča 
  - ultrazvočni senzor (HC-SR04) 
  - HM-10 BLE 4.0 Bluetooth module 
- - LCD zaslon - I2C 1602 LCD Display Module 16X2 
+ - LCD zaslon - I2C 1602 LCD Display Module 16X2
+
+<a href="https://www.youtube.com/watch?v=JEdZ07-WGb4">Video delovanja</a> 
