@@ -2,7 +2,7 @@
 
 <p float="left">
 <img src="Photo-5015.jpg" alt="Sistem v praksi" width="600"/>
-<img src="img1.png" alt="Aplikacija" width="200"/>
+<img src="img1.png" alt="Aplikacija" width="250"/>
 </p>
 
 
