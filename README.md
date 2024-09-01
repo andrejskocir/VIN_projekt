@@ -1,8 +1,8 @@
 # Sistem za spremljanje nivoja vode 
 
 <p float="left">
-<img src="Photo-5015.jpg" alt="Sistem v praksi" width="600"/>
-<img src="img1.png" alt="Aplikacija" width="250"/>
+<img src="slike/project.jpg" alt="Sistem v praksi" width="500"/>
+<img src="slike/app.png" alt="Aplikacija" width="250"/>
 </p>
 
 
